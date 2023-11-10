@@ -40,7 +40,7 @@ Considering the dataset's imbalance and prioritizing the accurate classification
 
 ### Best Result
 
-### RandomOverSampler
+#### RandomOverSampler
 
 #### Model: Random Forest
 
