@@ -61,3 +61,5 @@ To classify fetal health using this dataset, follow these steps:
 4. Train one of the recommended models using the balanced dataset.
 5. Evaluate the model's performance, with a focus on the "Pathological" class.
 
+## Acknowledgements
+Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318 [link](https://onlinelibrary.wiley.com/doi/10.1002/1520-6661(200009/10)9:5%3C311::AID-MFM12%3E3.0.CO;2-9)
