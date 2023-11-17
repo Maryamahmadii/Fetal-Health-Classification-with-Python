@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project aims to classify fetal health to prevent child and maternal mortality using features extracted from Cardiotocogram (CTG) exams. The primary challenge is dealing with dataset imbalance.
+This project aims to classify fetal health to prevent child and maternal mortality using features extracted from Cardiotocography (CTG) exams. The primary challenge is dealing with dataset imbalance.
 
 ## About the Dataset
 
